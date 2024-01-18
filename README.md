@@ -9,12 +9,16 @@
    I'm Yuri
 </h1>
 <h4 align="center">Experienced Front-end Developer</h4>
-<div>I have over 5+ years of experience designing and building websites, including:
-▪ HTML/CSS3, JavaScript/jQuery, WordPress, and SEO
-▪ Code review/refactoring & improvement projects
-▪ Responsive/adaptive web design, web optimization
-▪ Landing pages, a markup of PSD/Figma layouts, I also have experience with email markup
-▪ Single Page Application Framework Vue/Vuex/Axios</div>
+<div>
+  I have over 5+ years of experience designing and building websites, including:
+  <ul>
+    <li>HTML/CSS3, JavaScript/jQuery, WordPress, and SEO</li>
+    <li>Code review/refactoring & improvement projects</li>
+    <li>Responsive/adaptive web design, web optimization</li>
+    <li>Landing pages, a markup of PSD/Figma layouts, I also have experience with email markup</li>
+    <li>Single Page Application Framework Vue/Vuex/Axios</li>
+  </ul>
+</div>
 <hr />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
