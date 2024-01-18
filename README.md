@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/creatorAndDev/creatorAndDev/assets/24623977/6357f729-b47d-4b10-90d7-a179d409b35a)<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=creatorAndDev&style=flat-square&color=blue" alt=""/></div>
@@ -16,7 +16,7 @@
 
 <div>
 Contact with me: 
-<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%75%61%2e%77%65%62%2e%66%72%65%65%6c%61%6e%63%65%40%67%6d%61%69%6c%2e%63%6f%6d"><img align="center" src="https://giphy.com/embed/W3TdY216hOEWwUuJsY" title="Email" alt="Email" width="30"/></a>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%75%61%2e%77%65%62%2e%66%72%65%65%6c%61%6e%63%65%40%67%6d%61%69%6c%2e%63%6f%6d"><img align="center" src="https://github.com/creatorAndDev/creatorAndDev/assets/24623977/283ce6b4-cbfe-4846-aa2f-59ccbad843b4" title="Email" alt="Email" width="30"/></a>
 </div>
 
 <hr />
