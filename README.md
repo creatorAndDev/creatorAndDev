@@ -22,7 +22,7 @@
 </div>
 <hr />
 
-### :hammer_and_wrench: Connect with me:
+### Connect with me:
 <a href=""></a>
 
 ### :hammer_and_wrench: Languages and Tools :
