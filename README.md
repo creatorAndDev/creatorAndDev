@@ -16,7 +16,7 @@
 
 <div>
 Contact with me: 
-<a mailto=""&#109;&#97;&#105;&#108;&#116;&#111;&#58;%75%61%2e%77%65%62%2e%66%72%65%65%6c%61%6e%63%65%40%67%6d%61%69%6c%2e%63%6f%6d"><img align="center" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="30"/></a>
+<a mailto="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%75%61%2e%77%65%62%2e%66%72%65%65%6c%61%6e%63%65%40%67%6d%61%69%6c%2e%63%6f%6d"><img align="center" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="30"/></a>
 </div>
 
 <hr />
