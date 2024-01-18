@@ -16,7 +16,7 @@
 
 ### Connect with me:
 <a href="">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg](https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif?cid=ecf05e478viqd8gbzjvw9vxudp12le7bj40qhj03d078lodr&ep=v1_stickers_search&rid=giphy.gif&ct=s)" title="Email" alt="Email" width="40" height="40"/>&nbsp;
+<img src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="40" height="40"/>&nbsp;
 </a>
 
 <hr />
