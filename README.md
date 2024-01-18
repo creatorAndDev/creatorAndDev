@@ -35,4 +35,4 @@
 </div>
 
 ### My Stats :
-<div>https://github-readme-streak-stats.herokuapp.com/?user=creatorAndDev</div>
+<div>img</div>
