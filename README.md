@@ -12,12 +12,11 @@
 <div align="center">
   I have over 5+ years of experience designing and building websites
 </div>
-<hr />
 
 ### Connect with me:
 <a href=""></a>
 
-### Languages and Tools :
+<hr />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
