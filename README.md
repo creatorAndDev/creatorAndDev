@@ -1,4 +1,4 @@
-![image](https://github.com/creatorAndDev/creatorAndDev/assets/24623977/6357f729-b47d-4b10-90d7-a179d409b35a)<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=creatorAndDev&style=flat-square&color=blue" alt=""/></div>
