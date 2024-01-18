@@ -10,7 +10,7 @@
 </h1>
 <h4 align="center">Experienced Front-end Developer</h4>
 <br />
-<div>
+<div align="center">
   I have over 5+ years of experience designing and building websites
 </div>
 <hr />
