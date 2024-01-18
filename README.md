@@ -16,7 +16,7 @@
 
 <div>
 Contact with me: 
-<a mailto="#"><img align="top" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="40"/></a>
+<a mailto="#"><img align="center" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="40"/></a>
 </div>
 
 <hr />
