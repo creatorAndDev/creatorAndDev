@@ -11,14 +11,7 @@
 <h4 align="center">Experienced Front-end Developer</h4>
 <br />
 <div>
-  I have over 5+ years of experience designing and building websites, including:
-  <ul>
-    <li>HTML/CSS3, JavaScript/jQuery, WordPress, and SEO</li>
-    <li>Code review/refactoring & improvement projects</li>
-    <li>Responsive/adaptive web design, web optimization</li>
-    <li>Landing pages, a markup of PSD/Figma layouts, I also have experience with email markup</li>
-    <li>Single Page Application Framework Vue/Vuex/Axios</li>
-  </ul>
+  I have over 5+ years of experience designing and building websites
 </div>
 <hr />
 
