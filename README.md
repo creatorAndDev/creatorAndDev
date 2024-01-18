@@ -16,12 +16,8 @@
 
 ### Connect with me:
 <a href="">
-  
+<img src="[https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg](https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif?cid=ecf05e478viqd8gbzjvw9vxudp12le7bj40qhj03d078lodr&ep=v1_stickers_search&rid=giphy.gif&ct=s)" title="Email" alt="Email" width="40" height="40"/>&nbsp;
 </a>
-
-<svg fill="#d45555" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 1024 1024">
-							<path d="M1024 192v640c0 36.267-27.733 64-64 64h-64v-580.821l-384 275.755-384-275.755v580.821h-64c-36.309 0-64-27.733-64-64v-640c0-18.133 6.912-34.133 18.389-45.568 11.477-11.605 27.52-18.432 45.611-18.432h21.333l426.667 309.333 426.667-309.333h21.333c18.133 0 34.133 6.912 45.611 18.432 11.52 11.435 18.389 27.435 18.389 45.568z"></path>
-							</svg>
 
 <hr />
 <div>
