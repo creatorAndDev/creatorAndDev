@@ -12,7 +12,7 @@
 <div align="center">
   I have over 5+ years of experience designing and building websites
 </div>
-
+<br />
 ### Connect with me:
 <a href=""></a>
 
