@@ -9,6 +9,7 @@
    I'm Yuri
 </h1>
 <h4 align="center">Experienced Front-end Developer</h4>
+<div></div>
 <div>
   I have over 5+ years of experience designing and building websites, including:
   <ul>
