@@ -16,7 +16,7 @@
 
 <div>
 Contact with me: 
-<a mailto="ua.web.freelance@gmail.com"><img align="center" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="30"/></a>
+<a href="ua.web.freelance@gmail.com"><img align="center" src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="30"/></a>
 </div>
 
 <hr />
