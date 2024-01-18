@@ -15,11 +15,8 @@
 <br />
 
 <div>
-
-### Connect with me: 
-
+Connect with me: 
 <a href=""><img src="https://media3.giphy.com/media/4ZnKLRStK8zzBoieG9/giphy.gif" title="Email" alt="Email" width="50"/></a>
-
 </div>
 
 <hr />
