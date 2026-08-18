@@ -8,9 +8,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    I'm Yuri
 </h1>
-<h4 align="center">Experienced Front-end Developer</h4>
+<h4 align="center">Senior Frontend Developer | Engineering High-Performance Web Applications</h4>
 <div align="center">
-  I have over 5+ years of experience designing and building websites
+  I have over 10+ years of experience designing and building websites
 </div>
 <br />
 
